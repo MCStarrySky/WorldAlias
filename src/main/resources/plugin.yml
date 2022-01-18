@@ -1,0 +1,9 @@
+name: WorldAlias
+version: '${project.version}'
+main: me.mical.worldalias.WorldAlias
+api-version: 1.18
+depend: [ PlaceholderAPI ]
+authors: [ Mical ]
+description: 世界别称
+commands:
+  worldalias:

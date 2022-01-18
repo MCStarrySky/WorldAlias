@@ -1,0 +1,12 @@
+alias:
+  world: "&a主世界"
+  world_nether: "&c地狱"
+  world_the_end: "&d末地"
+  acidisland_world: "&a酸岛主世界"
+  acidisland_world_nether: "&c酸岛地狱"
+  acidisland_world_the_end: "&d酸岛末地"
+  oneblock_world: "&a单方块主世界"
+  oneblock_world_nether: "&c单方块地狱"
+  bskyblock_world: "&a空岛主世界"
+  bskyblock_wworld_nether: "&c空岛地狱"
+  bskyblock_wworld_the_end: "&d空岛末地"
